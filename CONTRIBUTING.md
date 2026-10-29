@@ -9,6 +9,14 @@ Thanks for your interest in contributing! This guide applies to every OpenWave I
 3. If you stop working on an issue, say so on the issue so someone else can pick it up.
 4. Ask questions on the issue if anything is unclear. Acceptance criteria in the issue are what reviewers check.
 
+### One issue at a time
+
+To give everyone a chance, especially people making their first contribution:
+
+- Work on **one issue at a time**. Claim the next one after your pull request is merged.
+- Issues labelled `good first issue` are for **first-time contributors**. After your first merged pull request, please leave them for newcomers and pick `help wanted` or other issues instead.
+- Pull requests for issues that weren't assigned to you, or beyond the one-at-a-time limit, may be closed so others can take the issue.
+
 Have an idea that isn't an issue yet? Open an issue (or a discussion in the [community repository](https://github.com/OpenWave-India/community/discussions)) and describe the problem before writing a large change.
 
 ## Pull requests
