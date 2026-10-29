@@ -26,4 +26,4 @@ Everyone whose pull request is merged is credited in the project's README and re
 
 Ideas, questions and project proposals go to [community discussions](https://github.com/OpenWave-India/community). Please follow each project's code of conduct.
 
-Follow [OpenWave India on LinkedIn](https://www.linkedin.com/company/145385028) for project news and releases.
+Follow [OpenWave India on LinkedIn](https://www.linkedin.com/company/openwave-india) for project news and releases.
